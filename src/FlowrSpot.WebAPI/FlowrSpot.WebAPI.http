@@ -1,0 +1,6 @@
+@FlowrSpot.WebAPI_HostAddress = http://localhost:5255
+
+GET {{FlowrSpot.WebAPI_HostAddress}}/flowrspot/
+Accept: application/json
+
+###
